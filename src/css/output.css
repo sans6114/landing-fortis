@@ -2512,6 +2512,10 @@ input:checked + .toggle-bg {
     width: auto;
   }
 
+  .md\:w-screen {
+    width: 100vw;
+  }
+
   .md\:grow {
     flex-grow: 1;
   }
